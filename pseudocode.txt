@@ -1,0 +1,22 @@
+PSEUDOCODE FOR MARIO
+
+Use # to represent height
+number of height = n
+get n as a positive integer
+check n
+if n is a positive integer 
+print n
+else if n is less than 1 and n is greater than 8
+go back to line 3
+repeat line 3 till line 7 is false 
+
+print a row starting from zero (top) to seven (bottom)
+go back to line 11
+print one hash (#)
+go back to line 13
+increase hash by one
+
+print one dot from left to right
+go back to 17
+start from row six to top
+increase dot by one
