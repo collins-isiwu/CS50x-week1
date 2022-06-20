@@ -24,15 +24,7 @@ This is a simple C programming that illustrates how to print "hello, world" usin
 
 # Assignment 2 - Mario
 With Mario, we were supposed to create a C program that prints a left-aligned # of triangle.
-       #
-      ##
-     ###
-    ####
-   #####
-  ######
- #######
-########
-Like this
+
 
 # Assignment 3 - Cash
 Is a C program that prompts the user for the number of cents that a customer is owed and then prints the smallest number of coins with which that change can be made.
